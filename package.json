@@ -17,7 +17,7 @@
     "@fortawesome/free-solid-svg-icons": "5.13.1",
     "@fortawesome/vue-fontawesome": "0.1.10",
     "ansicolor": "1.1.93",
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "highcharts": "8.1.2",
     "jwt-decode": "2.2.0",
     "prismjs": "^1.22.0",
